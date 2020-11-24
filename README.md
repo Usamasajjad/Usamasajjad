@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! Glad to have you here. <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" alt="Markdown Monster icon" style="height: 40px;" /> 👋
+
+
 
 <!--
 **Usamasajjad/Usamasajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
