@@ -11,8 +11,6 @@
 
 <h3 style="text-align:center"> My Development Toolkit </h3>
 
-<h3> Languages </h3>
-
 <p>
 
 <!-- Python -->
@@ -44,20 +42,13 @@
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=white" height=25px/>
 </a>
 <!-- Markdown -->
-<a href="https://daringfireball.net/projects/markdown/">
+<a href="https://daringfireball.net/projects/markdown">
 <img alt="SQL" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height=25px/>
 </a>
 <!-- LaTeX -->
-<a href="https://www.latex-project.org/">
+<a href="https://www.latex-project.org">
 <img alt="SQL" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" height=25px/>
 </a>
-
-</p>
-
-<h3> Frameworks </h3>
-
-<p>
-
 <!-- BootStrap -->
 <a href="https://getbootstrap.com">
 <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height=25px/>
@@ -67,65 +58,43 @@
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height=25px/>
 </a>
 <!-- Vue -->
-<a href="https://getbootstrap.com/">
+<a href="https://vuejs.org">
 <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height=25px/>
 </a>
 <!-- React -->
-<a href="https://getbootstrap.com/">
+<a href="https://reactjs.org">
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height=25px/>
 </a>
 <!-- WebPack -->
-<a href="https://getbootstrap.com/">
+<a href="https://webpack.js.org">
 <img alt="WebPack" src="https://img.shields.io/badge/-WebPacks-8DD6F9?style=flat-square&logo=webpack&logoColor=black" height=25px/>
 </a>
 <!-- Django -->
-<a href="https://getbootstrap.com/">
+<a href="https://www.djangoproject.com/">
 <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height=25px/>
 </a>
-
-</p>
-
-<h3> Libraries/APIs </h3>
-
-<p>
-
-
-
-</p>
-
-<h3> Documentation </h3>
-
-<p>
-
-
-
-</p>
-
-<h3> Version Control </h3>
-
-<p>
-
+<!-- Docker -->
+<a href="https://www.docker.com/">
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height=25px/>
+</a>
+<!-- Kubernetes -->
+<a href="https://kubernetes.io">
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height=25px/>
+</a>
 <!-- Git -->
-<a href="https://git-scm.com/">
+<a href="https://git-scm.com">
 <img alt="GitHub" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=25px/>
 </a>
 <!-- GitLab -->
-<a href="https://about.gitlab.com/">
+<a href="https://about.gitlab.com">
 <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" height=25px/>
 </a>
 <!-- BitBucket -->
 <a href="https://bitbucket.org/product">
 <img alt="Bit Bucket" src="https://img.shields.io/badge/-Bit_Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=25px/>
 </a>
-
-</p>
-
-<h3> Operating Systems </h3>
-
-<p>
-
 <!-- Linux -->
-<a href="https://www.linux.org/">
+<a href="https://www.linux.org">
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height=25px/>
 </a>
 <!-- Windows -->
