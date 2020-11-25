@@ -1,4 +1,5 @@
-<h2 align:center> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=25px> ! I'm glad to have you here.</h2>
+<img alt="Banner" src="Banner.png" width=100%/>
+<hr style="height:1px;">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,8 +10,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-<h3 style="text-align:center"> My Development Toolkit </h3>
-
+<h3> My Development Toolkit </h3>
+<hr style="height:1px;">
 <p>
 
 <!-- Python -->
@@ -103,6 +104,7 @@
 </a>
 
 </p>
+<hr style="height:1px;">
 
 <!--
 **Usamasajjad/Usamasajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
