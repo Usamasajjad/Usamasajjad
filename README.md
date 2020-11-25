@@ -6,10 +6,13 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-  
-<h3> Languages I'm familiar with </h3>
+
+<h3 style="text-align:center"> My Development Toolkit </h3>
+
+<h3> Languages </h3>
+
 <p>
 
 <!-- Python -->
@@ -21,57 +24,116 @@
 <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" height=25px/>
 </a>
 <!-- HTML -->
-<a href="https://www.w3.org/standards/">
+<a href="https://www.w3.org/standards">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML_5-E34F26?style=flat-square&logo=html5&logoColor=white" height=25px/>
 </a>
 <!-- CSS -->
-<a href="https://www.w3.org/standards/">
+<a href="https://www.w3.org/standards">
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS_3-1572B6?style=flat-square&logo=css3&logoColor=white" height=25px/>
 </a>
 <!-- JavaScript -->
-<a href="https://www.javascript.com/">
+<a href="https://www.javascript.com">
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height=25px/>
 </a>
 <!-- TypeScript -->
-<a href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org">
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height=25px/>
 </a>
 <!-- SQL -->
 <a href="https://www.iso.org/standard/63555.html">
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=" height=25px/>
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=white" height=25px/>
+</a>
+<!-- Markdown -->
+<a href="https://daringfireball.net/projects/markdown/">
+<img alt="SQL" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" height=25px/>
+</a>
+<!-- LaTeX -->
+<a href="https://www.latex-project.org/">
+<img alt="SQL" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" height=25px/>
 </a>
 
 </p>
 
-<h3> Frameworks I'm aware of </h3>
-<h3> Libraries/APIs I've used </h3>
+<h3> Frameworks </h3>
+
+<p>
+
+<!-- BootStrap -->
+<a href="https://getbootstrap.com">
+<img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height=25px/>
+</a>
+<!-- Angular -->
+<a href="https://angular.io">
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" height=25px/>
+</a>
+<!-- Vue -->
+<a href="https://getbootstrap.com/">
+<img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" height=25px/>
+</a>
+<!-- React -->
+<a href="https://getbootstrap.com/">
+<img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height=25px/>
+</a>
+<!-- WebPack -->
+<a href="https://getbootstrap.com/">
+<img alt="WebPack" src="https://img.shields.io/badge/-WebPacks-8DD6F9?style=flat-square&logo=webpack&logoColor=black" height=25px/>
+</a>
+<!-- Django -->
+<a href="https://getbootstrap.com/">
+<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" height=25px/>
+</a>
+
+</p>
+
+<h3> Libraries/APIs </h3>
+
+<p>
+
+
+
+</p>
 
 <h3> Documentation </h3>
 
+<p>
 
+
+
+</p>
 
 <h3> Version Control </h3>
 
+<p>
+
 <!-- Git -->
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=25px/>
-
+<a href="https://git-scm.com/">
+<img alt="GitHub" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=25px/>
+</a>
 <!-- GitLab -->
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" height=25px/>
-
+<a href="https://about.gitlab.com/">
+<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" height=25px/>
+</a>
 <!-- BitBucket -->
-<img src="https://img.shields.io/badge/-Bit_Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=25px/>
+<a href="https://bitbucket.org/product">
+<img alt="Bit Bucket" src="https://img.shields.io/badge/-Bit_Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=25px/>
+</a>
 
-<h3> Paradigms I've employed </h3>
-<h3> Platforms I prefer </h3>
+</p>
+
+<h3> Operating Systems </h3>
+
+<p>
 
 <!-- Linux -->
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height=25px/>
-
+<a href="https://www.linux.org/">
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height=25px/>
+</a>
 <!-- Windows -->
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height=25px/>
+<a href="https://www.microsoft.com/en-us/windows">
+<img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height=25px/>
+</a>
 
-
-
+</p>
 
 <!--
 **Usamasajjad/Usamasajjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
