@@ -12,25 +12,25 @@
 <h3> Languages I'm familiar with </h3>
 
 <!-- Python -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" height=30px/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" height=25px/>
 
 <!-- R -->
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" height=25px/>
 
 <!-- HTML -->
-<img src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" height=25px/>
 
 <!-- CSS -->
-<img src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" height=25px/>
 
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height=30px/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height=25px/>
 
 <!-- TypeScript -->
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height=25px/>
 
 <!-- SQL -->
-<img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=" height=30px/>
+<img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=" height=25px/>
 
 
 <h3> Frameworks I'm aware of </h3>
@@ -43,22 +43,22 @@
 <h3> Version Control </h3>
 
 <!-- Git -->
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=25px/>
 
 <!-- GitLab -->
-<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" height=30px/>
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" height=25px/>
 
 <!-- BitBucket -->
-<img src="https://img.shields.io/badge/-Bit Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-Bit Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=25px/>
 
 <h3> Paradigms I've employed </h3>
 <h3> Platforms I prefer </h3>
 
 <!-- Linux -->
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height=30px/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height=25px/>
 
 <!-- Windows -->
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height=25px/>
 
 
 
