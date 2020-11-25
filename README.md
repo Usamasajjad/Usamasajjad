@@ -10,28 +10,38 @@
 - ⚡ Fun fact: ...
   
 <h3> Languages I'm familiar with </h3>
+<p>
 
 <!-- Python -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" height=25px/>
-
+<a href="https://www.python.org">
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=yellow" height=25px/>
+</a>
 <!-- R -->
-<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" height=25px/>
-
+<a href="https://www.r-project.org">
+<img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" height=25px/>
+</a>
 <!-- HTML -->
-<img src="https://img.shields.io/badge/-HTML 5-E34F26?style=flat-square&logo=html5&logoColor=white" height=25px/>
-
+<a href="https://www.w3.org/standards/">
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML_5-E34F26?style=flat-square&logo=html5&logoColor=white" height=25px/>
+</a>
 <!-- CSS -->
-<img src="https://img.shields.io/badge/-CSS 3-1572B6?style=flat-square&logo=css3&logoColor=white" height=25px/>
-
+<a href="https://www.w3.org/standards/">
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS_3-1572B6?style=flat-square&logo=css3&logoColor=white" height=25px/>
+</a>
 <!-- JavaScript -->
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height=25px/>
-
+<a href="https://www.javascript.com/">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height=25px/>
+</a>
 <!-- TypeScript -->
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height=25px/>
-
+<a href="https://www.typescriptlang.org/">
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height=25px/>
+</a>
 <!-- SQL -->
-<img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=" height=25px/>
+<a href="https://www.iso.org/standard/63555.html">
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=server-fault&logoColor=" height=25px/>
+</a>
 
+</p>
 
 <h3> Frameworks I'm aware of </h3>
 <h3> Libraries/APIs I've used </h3>
@@ -49,7 +59,7 @@
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=black" height=25px/>
 
 <!-- BitBucket -->
-<img src="https://img.shields.io/badge/-Bit Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=25px/>
+<img src="https://img.shields.io/badge/-Bit_Bucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" height=25px/>
 
 <h3> Paradigms I've employed </h3>
 <h3> Platforms I prefer </h3>
