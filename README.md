@@ -71,16 +71,28 @@
 <img alt="WebPack" src="https://img.shields.io/badge/-WebPacks-000000?style=flat-square&logo=webpack&logoColor=00ff0a" height=25px/>
 </a>
 <!-- Django -->
-<a href="https://www.djangoproject.com/">
+<a href="https://www.djangoproject.com">
 <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=00ff0a" height=25px/>
 </a>
 <!-- Docker -->
-<a href="https://www.docker.com/">
+<a href="https://www.docker.com">
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=00ff0a" height=25px/>
 </a>
 <!-- Kubernetes -->
 <a href="https://kubernetes.io">
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=00ff0a" height=25px/>
+</a>
+<!-- Vim -->
+<a href="https://www.vim.org">
+<img alt="Vim" src="https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim&logoColor=00ff0a" height=25px/>
+</a>
+<!-- VSCode -->
+<a href="https://code.visualstudio.com">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=00ff0a" height=25px/>
+</a>
+<!-- JetBrains -->
+<a href="https://www.jetbrains.com">
+<img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains_IDEs-000000?style=flat-square&logo=jetbrains&logoColor=00ff0a" height=25px/>
 </a>
 <!-- Git -->
 <a href="https://git-scm.com">
