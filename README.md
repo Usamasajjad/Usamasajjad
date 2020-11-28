@@ -1,7 +1,7 @@
 <img alt="Banner" src="Banner.png" width=100%/>
 <hr style="height:1px;">
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on strengthening my existing skillset and learning new cool stuff. Ultimately I want to be at a point where I can buid Web or cross platform applications from scratch, deploy and scale them.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -12,6 +12,7 @@
 
 <h3> My Development Toolkit </h3>
 <hr style="height:1px;">
+
 <p>
 
 <!-- Python -->
